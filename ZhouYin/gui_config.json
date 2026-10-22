@@ -1,0 +1,17 @@
+{
+  "w": 1920,
+  "h": 1009,
+  "normal_dir": "./dataset/normal",
+  "broken_dir": "./dataset/broken",
+  "aircut_dir": "./dataset/aircut",
+  "window_sec": 5.0,
+  "step_sec": 2.5,
+  "min_events_per_window": 1000,
+  "consec": 3,
+  "confidence": 70,
+  "rms_coef": 1.2,
+  "pcoef_small": 3.0,
+  "pcoef_mid": 4.0,
+  "pcoef_large": 2.5,
+  "theme": "护眼绿"
+}

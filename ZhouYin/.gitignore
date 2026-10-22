@@ -1,0 +1,74 @@
+# Offline AE datasets
+dataset/
+
+# PyInstaller / build outputs
+dist/
+build/
+
+# Batch runs and derived training artifacts
+output_batch/
+output/
+output_cat/
+output_rf/
+
+# Primary inference models only (see negated paths below)
+output_xgb/*
+!output_xgb/
+!output_xgb/xgb_break_tool.pkl
+
+output_lgb/*
+!output_lgb/
+!output_lgb/isolationforest.pkl
+
+# Old copies and internal notes tree
+_archive/
+LYW/
+
+# C# projects and loose C# / VS files at ZhouYin root
+CSharpBroken/
+CSharpBrokenSimplify/
+*.cs
+*.csproj
+*.pyproj
+*.sln
+UpgradeLog.htm
+
+# Documentation
+**/*.md
+
+# Reports, viz, office docs
+*.html
+*.htm
+*.docx
+
+# Offline tables / local DB / images not needed on GitHub
+*.csv
+*.db
+*.png
+patent_figs/
+test_font.png
+report_ranking.png
+rf_feature_import_top20.png
+Figure_1.png
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# IDE / .NET build artifacts
+.vs/
+**/bin/
+**/obj/
+
+# Launchers (local paths)
+*.bat
+
+# Local model backups and scratch
+model_backups/
+*.bak
+_bk.txt
+ceemd_rf_toold*
+feature_import_detail.csv
+ttt.csv

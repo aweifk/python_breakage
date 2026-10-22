@@ -1,0 +1,83 @@
+{
+  "0.4": {
+    "aircut_p90_power": 0,
+    "aircut_p99_rms": 0,
+    "normal_p10_power": 3.8,
+    "normal_p95_power": 96.3,
+    "normal_p95_rms": 7.96,
+    "broken_p95_pmax": 3065.1,
+    "broken_p95_rms": 4.31
+  },
+  "0.6": {
+    "aircut_p90_power": 9.4,
+    "aircut_p99_rms": 1.38,
+    "normal_p10_power": 9.4,
+    "normal_p95_power": 253.4,
+    "normal_p95_rms": 2.79,
+    "broken_p95_pmax": 2872.1,
+    "broken_p95_rms": 4.04
+  },
+  "0.8": {
+    "aircut_p90_power": 16.7,
+    "aircut_p99_rms": 1.68,
+    "normal_p10_power": 6.4,
+    "normal_p95_power": 160.0,
+    "normal_p95_rms": 4.21,
+    "broken_p95_pmax": 4303.7,
+    "broken_p95_rms": 4.74
+  },
+  "1.0": {
+    "aircut_p90_power": 30.5,
+    "aircut_p99_rms": 1.65,
+    "normal_p10_power": 39.7,
+    "normal_p95_power": 1239.9,
+    "normal_p95_rms": 8.64,
+    "broken_p95_pmax": 18140.4,
+    "broken_p95_rms": 11.14
+  },
+  "1.5": {
+    "aircut_p90_power": 11.2,
+    "aircut_p99_rms": 1.17,
+    "normal_p10_power": 22.3,
+    "normal_p95_power": 270.1,
+    "normal_p95_rms": 3.45,
+    "broken_p95_pmax": 28603.5,
+    "broken_p95_rms": 12.03
+  },
+  "2.0": {
+    "aircut_p90_power": 18.2,
+    "aircut_p99_rms": 1.46,
+    "normal_p10_power": 129.3,
+    "normal_p95_power": 2211.9,
+    "normal_p95_rms": 11.02,
+    "broken_p95_pmax": 53410.0,
+    "broken_p95_rms": 20.48
+  },
+  "4.0": {
+    "aircut_p90_power": 17.5,
+    "aircut_p99_rms": 1.86,
+    "normal_p10_power": 148.1,
+    "normal_p95_power": 3621.8,
+    "normal_p95_rms": 14.04,
+    "broken_p95_pmax": 91559.1,
+    "broken_p95_rms": 29.37
+  },
+  "6.0": {
+    "aircut_p90_power": 20.7,
+    "aircut_p99_rms": 1.55,
+    "normal_p10_power": 852.4,
+    "normal_p95_power": 33339.8,
+    "normal_p95_rms": 27.47,
+    "broken_p95_pmax": 103432.1,
+    "broken_p95_rms": 32.43
+  },
+  "8.0": {
+    "aircut_p90_power": 25.2,
+    "aircut_p99_rms": 1.69,
+    "normal_p10_power": 2688.9,
+    "normal_p95_power": 22674.3,
+    "normal_p95_rms": 27.45,
+    "broken_p95_pmax": 65995.5,
+    "broken_p95_rms": 27.08
+  }
+}
